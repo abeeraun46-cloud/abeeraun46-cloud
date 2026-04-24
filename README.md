@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abeer
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="55%" alt="Welcome"/>
 </p>
 <p align="center">
   🤖 AI Student | Future Machine Learning Engineer  
